@@ -43,19 +43,10 @@
                           </TabBarItem>
                           
 三、效果预览
-                <img src="https://img2018.cnblogs.com/common/1585478/202002/1585478-20200216150525236-1898652490.gif" width = "100" height = "100" div align=right />
+                <img src="https://img2018.cnblogs.com/common/1585478/202002/1585478-20200216150525236-1898652490.gif" width = "60%"  div align=left />
 
 
 
 
 
-
-
-
-
-
-
-
-
-        ![avatar](https://img2018.cnblogs.com/common/1585478/202002/1585478-20200216150525236-1898652490.gif)
             
