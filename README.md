@@ -43,6 +43,7 @@
                           </TabBarItem>
                           
 三、效果预览
+</br>
                 <img src="https://img2018.cnblogs.com/common/1585478/202002/1585478-20200216150525236-1898652490.gif" width = "200" height = "320" div align=center />
 
 
